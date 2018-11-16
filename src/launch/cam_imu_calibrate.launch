@@ -1,0 +1,7 @@
+<launch>
+
+<node name = "image_usb" pkg = "image_usb" type = "image_usb_node"/>
+<node name = "imu_serial" pkg = "imu_serial" type = "serial_mcu"/>
+<node name = "static" pkg = "rosbag" type = "record" args = "/cam0/image_raw /cam1/image_raw /imu0"/>
+
+</launch>

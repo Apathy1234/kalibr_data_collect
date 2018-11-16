@@ -1,0 +1,2 @@
+image_usb:imu_serial
+-DCATKIN_DEVEL_PREFIX=/home/tg/slam_calibration/devel -DCMAKE_INSTALL_PREFIX=/home/tg/slam_calibration/install -G Unix Makefiles

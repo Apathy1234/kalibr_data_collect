@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tg/slam_calibration/src/cmake-build-debug/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/tg/slam_calibration/install
+
+Name: imu_serial
+Description: Description of imu_serial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tg/slam_calibration/install/lib 
+Requires: 

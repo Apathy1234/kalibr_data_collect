@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: imu_serial
+Description: Description of imu_serial
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
